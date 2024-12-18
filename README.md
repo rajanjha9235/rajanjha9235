@@ -29,6 +29,7 @@ Here are a few projects that I'm really proud of:
 - [**Mega Blog**](https://github.com/rajanjha9235/mega-blog) - A brief description of what this project is about.
 - [**To-Do App**](https://github.com/rajanjha9235/to-do) - A brief description of what this project is about.
 - [**DevOps Capstone Project**](https://github.com/rajanjha9235/project3) - A brief description of what this project is about.
+- [**Sorting Visualizer**](https://github.com/rajanjha9235/Sorting_Visualizer) - It provides Visualization of various Sorting Algorithhms.
 
 ---
 
