@@ -64,7 +64,7 @@ Here are a few projects I'm particularly proud of:
 
 ### 🚀 GitHub Activity
 
-![Rajan's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=rajanjha9235&theme=github)
+![snake gif](https://github.com/rajanjha9235/rajanjha9235/blob/output/github-snake-dark.svg)
 
 
 ---
