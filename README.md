@@ -73,17 +73,7 @@ Here are a few projects I'm particularly proud of:
 
 You can download my latest resume from the link below:
 
-[**Download Resume**](https://github.com/rajanjha9235/rajanjha9235/blob/main/Resume_Rajan_Jha.pdf)
-
----
-
-## 🎮 Contribution Snake (GitHub Activity)
-
-Here's how my contributions have looked over time. It’s like a **snake**! 🐍
-
-![Contribution Snake](https://raw.githubusercontent.com/rajanjha9235/snk/master/output/github-contribution-snake.svg)
-
-*(Note: This automatically updates based on my GitHub contributions.)*
+![**Download Resume**](https://drive.google.com/file/d/1IvGohuJjjcMaLAS6TShugJgiG4MFIzDx/view?usp=drive_link)
 
 ---
 
