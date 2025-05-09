@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software developer always eager t
 
 ## 🏆 Personal Achievements
 
-- **GATE 2023**: Scored **423** in GATE exam (Mechanical Engineering)
+- **GATE 2025**: Scored **423** in GATE exam (Computer Science & Engineering)
 - Qualified for top PSU recruitment and ready to apply my skills in real-world projects! 🌟
 
 ---
