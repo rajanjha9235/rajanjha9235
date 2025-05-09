@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate software developer always eager to learn, explore, and build meaningful projects. I specialize in full-stack development, problem-solving, and creating solutions that make a difference. 🚀
 
 ## 🏆 Personal Achievements
-
+- Solved over **500+ DSA problems** on platforms like LeetCode and GFG.
 - **GATE 2025**: Scored **423** in GATE exam (Computer Science & Engineering)
 - Qualified for top PSU recruitment and ready to apply my skills in real-world projects! 🌟
 
@@ -73,7 +73,7 @@ Here are a few projects I'm particularly proud of:
 
 You can download my latest resume from the link below:
 
-![**Download Resume**](https://drive.google.com/file/d/1IvGohuJjjcMaLAS6TShugJgiG4MFIzDx/view?usp=drive_link)
+<a href="https://drive.google.com/drive/u/0/folders/1vROnHmG05UfYYFBlAWIKXcs18jOzhkZo" target="__blank">Resume</a>
 
 ---
 
