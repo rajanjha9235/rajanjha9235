@@ -109,19 +109,3 @@ Thanks for visiting! 👾
 - You can always find my repositories, pull requests, and activity contributions below. If you see something interesting, feel free to fork or contribute to the projects!
 
 ---
-
-### **How to Set Up the GitHub Contribution Snake**
-
-1. **Fork the Repository**: You can use [this GitHub repository](https://github.com/Platane/snk) to create your own contribution snake for your profile.
-2. **Set Up GitHub Actions**: The `snake.md` feature works with GitHub Actions to automatically create the contribution graph. When you push to your GitHub profile, the snake will grow, just like your activity.
-3. **Embed in README**: Once your **snake.svg** is generated, simply link it in your `README.md` as shown above.
-
----
-
-### **How the Contribution Snake Works**
-
-- This snake-like pattern is created automatically based on the contributions you make on GitHub, like commits, issues, pull requests, etc.
-- Every contribution is recorded and reflected in the graph, making your **GitHub activity** look like a snake that grows longer as you contribute more.
-
----
-
